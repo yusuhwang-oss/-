@@ -89,3 +89,7 @@ target_year = 2022
 ## 라이선스
 
 이 프로젝트는 학습 목적으로 제작되었으며, 자유롭게 참고하셔도 됩니다 (MIT License).
+
+## 업데이트 (v2)
+
+업종 평균 대비 상대지표를 적용해 모델을 개선했습니다. 자세한 내용은 [v2_industry_adjustment/README_v2.md](./v2_industry_adjustment/README_v2.md)와 [v2_industry_adjustment/report_v2.pdf](./v2_industry_adjustment/report_v2.pdf)를 참고해 주세요.
